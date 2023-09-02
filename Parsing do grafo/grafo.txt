@@ -1,0 +1,92 @@
+1 "Vila Sônia"
+2 "Paulista"
+3 "Luz"
+4 "Vila Madalena"
+5 "Vila Prudente"
+6 "Ana Rosa"
+7 "Paraíso"
+8 "Jabaquara"
+9 "Tucuruvi"
+10 "Jardim Colonial"
+11 "Sé"
+13 "Arthur Alvim"
+14 "Morumbi"
+15 "Mendes - Vila Natal"
+16 "Santo Amaro"
+19 "Presidente Altino"
+20 "Pinheiros"
+21 "Cecap"
+22 "Jundiaí"
+24 "Osasco"
+25 "Amador bueno"
+26 "Capão Redondo"
+27 "Berrini"
+34 "Engenheiro Goulart"
+35 "Chácara Klanin"
+36 "Santo André"
+37 "Santa Cruz"
+38 "Brás"
+39 "Rio Grande da Serra"
+40 "Tamanduateí"
+41 "Tatuapé"
+42 "Corinthians Itaquera"
+43 "Estudantes"
+44 "Calmon Viana"
+45 "Aeroporto - Guarulhos"
+46 "Guarulhos - Cecap"
+47 "República"
+50 "Júlio Prestes"
+51 "Palmeiras - Barra Funda"
+52 "Vila Galvão"
+"Paulista" "Ana Rosa" 1
+"Paulista" "Paraíso" 1
+"Vila Prudente" "Jardim Colonial" 1
+"Tucuruvi" "Luz" 1
+"Luz" "Sé" 1
+"Sé" "Paraíso" 1
+"Paulista" "Vila Madalena" 1
+"Amador bueno" "Osasco" 1
+"Osasco" "Presidente Altino" 1
+"Osasco" "Pinheiros" 1
+"Presidente Altino" "Pinheiros" 1
+"Vila Sônia" "Pinheiros" 400
+"Pinheiros" "Paulista" 100
+"Capão Redondo" "Santo Amaro" 1
+"Pinheiros" "Berrini" 1
+"Morumbi" "Berrini" 1
+"Morumbi" "Santo Amaro" 1
+"Santo Amaro" "Mendes - Vila Natal" 1
+"Ana Rosa" "Santa Cruz" 1
+"Paraíso" "Santa Cruz" 1
+"Paraíso" "Chácara Klanin" 1
+"Ana Rosa" "Chácara Klanin" 1
+"Santo Amaro" "Santa Cruz" 1
+"Chácara Klanin" "Santa Cruz" 1
+"Santa Cruz" "Jabaquara" 1
+"Rio Grande da Serra" "Santo André" 1
+"Santo André" "Tamanduateí" 1
+"Tamanduateí" "Brás" 1
+"Brás" "Luz" 1
+"Sé" "Brás" 1
+"Chácara Klanin" "Tamanduateí" 1
+"Tamanduateí" "Vila Prudente" 1
+"Brás" "Tatuapé" 1
+"Tatuapé" "Arthur Alvim" 1
+"Estudantes" "Calmon Viana" 1
+"Calmon Viana" "Corinthians Itaquera" 1
+"Tatuapé" "Engenheiro Goulart" 1
+"Engenheiro Goulart" "Brás" 1
+"Engenheiro Goulart" "Calmon Viana" 1
+"Aeroporto - Guarulhos" "Guarulhos - Cecap" 1
+"Guarulhos - Cecap" "Engenheiro Goulart" 1
+"Luz" "República" 500
+"República" "Paulista" 1
+"Sé" "República" 1
+"Palmeiras - Barra Funda" "Júlio Prestes" 1
+"Palmeiras - Barra Funda" "República" 1
+"Jundiaí" "Palmeiras - Barra Funda" 1
+"Presidente Altino" "Palmeiras - Barra Funda" 1
+"Tucuruvi" "Vila Galvão" 1
+"Vila Galvão" "Cecap" 1
+"Cecap" "Guarulhos - Cecap" 1
+"Cecap" "Aeroporto - Guarulhos" 1
