@@ -1,7 +1,5 @@
 # METRÔGRAFOS
 
-## DOCUMENTAÇÃO
-Todas informações referentes ao projeto se encontram no arquivo "METRÔGRAFOS.pdf". Nesse arquivo, ainda há um vídeo explicativo no YouTube.  
+The subway line mapping system of São Paulo developed in the Python programming language is a versatile and efficient application that utilizes graphs to represent the network, making it easier to comprehend the network's topology and providing features such as distance calculations with estimated travel times.  
 
-## PARSING DO GRAFO  
-Para geração do txt usado no projeto, fizemos um script que recebe um XML gerado pela ferramenta Graph Online e gera o txt citado.  
+For more information on the project's development, please access the file "METRÔGRAFOS.pdf."  
